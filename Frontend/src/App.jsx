@@ -5,7 +5,7 @@ import { Dashboard } from "./Components/Dashboard"
 import { Transfer } from "./Components/Transfer"
 import { Root } from "./Components/RootPage"
 
-export const LINK = "https://payment-app-wbpo.onrender.com"
+export const LINK = "https://payment-app-wbpo.onrender.com/api/v1"
 
 function App() {
   return <div>
